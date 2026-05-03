@@ -14,7 +14,7 @@
 
 ## DEPLOYMENT GUIDE (Backend)
 
-The frontend is live at: https://charan-25022005.github.io/campusPortal/public/index.html
+The frontend is live at: https://Ketan0607.github.io/campusPortal/public/index.html
 
 ### Step 1: Deploy MySQL Database
 You need a hosting provider that supports MySQL. I recommend:
@@ -27,7 +27,7 @@ Once you get the connection details, update your **Deployment Environment Variab
 ### Step 2: Deploy the Express Server (Node.js)
 1. Go to [Render.com](https://render.com/) and sign in with GitHub.
 2. Click **New +** > **Web Service**.
-3. Select your repository: `charan-25022005/campusPortal`.
+3. Select your repository: `Ketan0607/campusPortal`.
 4. Use these settings:
    - **Environment**: Node
    - **Build Command**: `npm install`

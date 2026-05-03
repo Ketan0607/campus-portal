@@ -22,7 +22,7 @@ app.use(cors({
     origin: [
         'http://localhost:3000',
         'http://localhost:5000',
-        'https://charan-25022005.github.io'
+        'https://Ketan0607.github.io'
     ],
     credentials: true
 }));
